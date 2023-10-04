@@ -1,0 +1,26 @@
+{
+    "name": "biblioteca-node-js",
+    "version": "1.0.0",
+    "description": "Primeiros passos com uma biblioteca NodeJS",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/GustGodoi/BibliotecaNodeJs.git"
+    },
+    "keywords": [
+        "test"
+    ],
+    "author": "Gustavo Godoi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/GustGodoi/BibliotecaNodeJs/issues"
+    },
+    "homepage": "https://github.com/GustGodoi/BibliotecaNodeJs#readme",
+    "dependencies": {
+        "chalk": "5.3.0"
+    }
+}
