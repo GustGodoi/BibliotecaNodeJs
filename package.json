@@ -2,11 +2,11 @@
     "name": "biblioteca-node-js",
     "version": "1.0.0",
     "description": "Primeiros passos com uma biblioteca NodeJS",
-    "main": "index.js",
+    "main": "cli.js",
     "type": "module",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "cli": "node ./src/cli.js "
+        "cli": "node ./src/cli.js"
     },
     "repository": {
         "type": "git",
